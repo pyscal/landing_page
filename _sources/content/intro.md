@@ -1,5 +1,6 @@
-# <font style="font-family:roboto;color:#455e6c;font-size:30px"> <b> Data analysis and workflows in Materials science </b> </font> </td>
+# <font style="font-family:roboto;color:#455e6c;font-size:30px"> <b> pyscal </b> </font> </td>
 
+pyscal has the following software packages:
 
 
 ::::::{grid} 2
